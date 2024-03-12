@@ -6,6 +6,11 @@
 
 <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=rosany-alves&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=false&quot;/&gt;">
  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosany-alves&amp;layout=compact&amp;langs_count=7&amp;theme=react&quot;/&gt;">
+
+<img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=rosany-alves&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=false&quot;/&gt;>
+    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&amp;layout=compact&amp;langs_count=7&amp;theme=react&quot;/&gt;>
+
+ 
   
 <div align="center"> 
 <a href="https://instagram.com/rosalves28" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
