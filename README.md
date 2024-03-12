@@ -3,10 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rosany+Alves!;I'm+from+Brazil;I+Graduating+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-<img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=rosany-alves&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=false&quot;/&gt;">
- <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosany-alves&amp;layout=compact&amp;langs_count=7&amp;theme=react&quot;/&gt;">
-
 <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=rosany-alves&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=false&quot;/&gt;">
  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosany-alves&amp;layout=compact&amp;langs_count=7&amp;theme=react&quot;/&gt;">
 
